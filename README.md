@@ -41,7 +41,7 @@
 
 ### Example
 
-![intents](https://media.discordapp.net/attachments/782211920416735252/789810856460419092/unknown.png?width=1409&height=400)
+![intents](https://cdn.discordapp.com/attachments/1155187774337589430/1168632977190821983/image.png?ex=65527945&is=65400445&hm=96c08982ed7a39b821e99e98f5c7377ed7167ec0d754082aabee9c4c00be8f9d&)
 
 
 ### Linux Set-up:
