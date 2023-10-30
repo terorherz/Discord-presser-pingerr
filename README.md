@@ -20,7 +20,7 @@
 
 # Show Case: 
 
-| Mass Delete Channels | Mass Create Channels | Mass Roles |
+| Mass Ping Channels | 
 | ------------- | ------------- | ------------- |
 | ![mass ping 1](https://cdn.discordapp.com/attachments/1155187774337589430/1168632261608996945/image.png?ex=6552789b&is=6540039b&hm=c844f8998d5ce10ed68f3b0484d0142ba62dc50fc2bcdcac44b0808c4b7f2b82&) | 
 
@@ -81,4 +81,4 @@ Also I'd recommend only mass pinging till the server reaches to 3k pings. Any mo
 ## Contact Me
 
 ﹒[Discord Server](https://discord.gg/Mq9NdtcZAz)
-﹒[Steam](https://steamcommunity.com/profiles/terorherz/)
+﹒[Steam](https://steamcommunity.com/id/terorherz/)
