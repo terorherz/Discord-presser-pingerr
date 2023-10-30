@@ -20,7 +20,7 @@
 
 # Show Case: 
 
-| Mass Delete Channels | | | 
+| Mass Ping Channels | | | 
 | ------------- | ------------- | ------------- |
 | ![mass ping 1](https://cdn.discordapp.com/attachments/1155187774337589430/1168632261608996945/image.png?ex=6552789b&is=6540039b&hm=c844f8998d5ce10ed68f3b0484d0142ba62dc50fc2bcdcac44b0808c4b7f2b82&) | 
 
