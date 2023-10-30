@@ -1,4 +1,4 @@
-# Presser: 7teen Server Nuker
+# Presser: herz Server Nuker
 
 | Presser | 
 | ------------- | 
@@ -16,18 +16,16 @@
 7. `Ban All Members`
 8. `Kick All Members`
 9. `Delete All Stickers` **(NEW)**
+10.`Mass ping 450k+!` **(NEW)**
 
 # Show Case: 
 
 | Mass Delete Channels | Mass Create Channels | Mass Roles |
 | ------------- | ------------- | ------------- |
-| ![mass delete 1](https://user-images.githubusercontent.com/71920969/94821935-0b3a2780-03fa-11eb-8a43-3fb418e373ba.gif) | ![mass channels lol](https://user-images.githubusercontent.com/71920969/94822362-7683f980-03fa-11eb-9759-906d649b6021.gif) | ![massroles](https://media3.giphy.com/media/StXIhkIQKb8sEdXjPj/giphy.gif) |
+| ![mass ping 1](https://cdn.discordapp.com/attachments/1155187774337589430/1168632261608996945/image.png?ex=6552789b&is=6540039b&hm=c844f8998d5ce10ed68f3b0484d0142ba62dc50fc2bcdcac44b0808c4b7f2b82&) | 
 
 ### Mass Ping:
-![mass ping lol](https://user-images.githubusercontent.com/71920969/94822656-cb277480-03fa-11eb-97ee-44562785397f.gif)
-
-### Help:
-![help](https://media.discordapp.net/attachments/840525480331575328/886686333307879474/unknown.png)
+![mass ping lol](https://cdn.discordapp.com/attachments/1155187774337589430/1168634120465825842/image.png?ex=65527a56&is=65400556&hm=1b7924478d4d9b78dddda0fb07a41a4a6da8268343d06c39adee179d72e6036e&)
 
 
 # Requirements Before Set-up:
