@@ -17,7 +17,6 @@
 8. `Kick All Members`
 9. `Delete All Stickers` **(NEW)**
 10. `Mass Ping 450k+` **(NEW)**
-10.`Mass ping 450k+!` **(NEW)**
 
 # Show Case: 
 
